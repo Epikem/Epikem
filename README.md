@@ -3,8 +3,7 @@
 
 ### solved.ac
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikem)](https://solved.ac/epikem)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=epikem)](https://solved.ac/epikem)
 
 ### blog
 
